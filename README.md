@@ -7,3 +7,4 @@ Tasks for the course on learning HTML and CSS.
 - [first-million-bootstrap](https://sergiobng.github.io/course-html-and-css/first-million-bootstrap/main)
 - [social-network](https://sergiobng.github.io/course-html-and-css/social-network/main)
 - [project-book-md](https://sergiobng.github.io/course-html-and-css/project-book-md/index)
+- [book](https://sergiobng.github.io/course-html-and-css/book/html_teg)
